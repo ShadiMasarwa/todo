@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: gray;
+}
+
+.inputForm {
+  width: 300px;
+}
+
+.task-card {
+  padding: 10px;
+  border: 1px solid blue;
+  background-color: rgba(255, 255, 255, 0.698);
+  border-radius: 10px;
+  width: 25vw;
+  margin-bottom: 5px;
+}
+
+.active {
+  background-color: rgba(134, 239, 134, 0.753);
+}
+
+.line {
+  text-decoration: line-through;
+}
