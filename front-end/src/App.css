@@ -7,6 +7,9 @@
 .inputForm {
   width: 300px;
 }
+.inputForm-header {
+  width: 30vw;
+}
 
 .task-card {
   padding: 10px;
